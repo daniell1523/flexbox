@@ -1,0 +1,41 @@
+.services {
+    width: 100%;
+    height: 100%;
+    flex: 1 1 45%;
+    gap: 30px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    border: 2px solid blueviolet;
+}
+
+.ServiceBox {
+    align-self: center;
+    align-items: center;
+    text-align: center;
+    width: 600px;
+    height: 250px;
+    background-color: white;
+    box-shadow: 2px 2px 2px 5px gray;
+    border-radius: 8px;
+}
+
+.emoji {
+    font-size: 60px;
+}
+
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.Top, .Bot {
+    align-content: center;
+    margin: 200px;
+}
+
+body {
+}
