@@ -1,0 +1,11 @@
+.no-bullets {
+  list-style: none;   /* usuwa punkty */
+  padding: 0;         /* usuwa wcięcie */
+  margin: 0;
+}
+
+.no-bullets li {
+  padding: 5px 0;     /* odstęp między elementami */
+  font-size: 16px;
+  color: #333;
+}

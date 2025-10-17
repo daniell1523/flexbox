@@ -19,23 +19,21 @@
     box-shadow: 2px 2px 2px 5px gray;
     border-radius: 8px;
 }
-
 .emoji {
     font-size: 60px;
 }
-
 body {
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto;
 }
-
 h1 {
     text-align: center;
 }
-
 .Top, .Bot {
+    display: flex;
     align-content: center;
     margin: 200px;
 }
-
 body {
+    margin: 0;
+    padding: 0;
 }
